@@ -15,4 +15,3 @@ for headings in title:
 	else:
 		print(headings.contents[0].strip())
 
-
