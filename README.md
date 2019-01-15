@@ -1,2 +1,2 @@
 # Python-Programs
-Programs written while learning Python syntax 
+Python programs written for fun
