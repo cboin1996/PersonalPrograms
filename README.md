@@ -1,2 +1,4 @@
 # Python-Programs
-Python programs written for fun
+A variety of python projects either written for fun or written for a purpose.
+
+
