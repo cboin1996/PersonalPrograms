@@ -6,3 +6,7 @@ FileReadandPlot.py - code that takes txt files and plots a graph for each two co
 
 momentCalc.py - calculates the thickness of a metal tube required for a given input force.  Useful for designing tubes in      bending.
 
+figureNameGen.py --  used for generating figure blocks of code in LaTeX for a given set of png files.
+
+
+
